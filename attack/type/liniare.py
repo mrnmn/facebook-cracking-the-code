@@ -254,7 +254,6 @@ def liniar_attack(browser: str, code_lenght: int, email: str = "", phone: str = 
                 print(pr.colored("\n\t*Congratulation! The account hacked with code:" + str(current_code-1), "red"))
                     
                 print(pr.colored("\n\t*Password change link: " + str(currurl),"green"))
-                print(pr.colored("\n\t*Donate : " + "mohamednmn28105@gmail.com\n", "green"))
                 break
 
             # wait for code html input to appear and put the current code.
