@@ -11,37 +11,6 @@ import os
 #tempval = ''.join(random.sample(val, 8))
 
 
-# https://www.facebook.com/recover/code/?n=000000&s=23&exp_locale=fr_FR&cuid=AYi8oe6vrFkHKu3nQGRozo0JHDddhk32dM9n7nBiiEyFtmRkK4DlXeQvt0O1MhKhuXLon4oOTU4J6w0wmgw29KQRpecbEH8kqS79nSAyNv7ItA&redirect_from=button
-# https://www.facebook.com/recover/code/?n=000000&s=23&exp_locale=fr_FR&cuid=AYi8oe6vrFkHKu3nQGRozo0JHDddhk32dM9n7nBiiEyFtmRkK4DlXeQvt0O1MhKhuXLon4oOTU4J6w0wmgw29KQRpecbEH8kqS79nSAyNv7ItB&redirect_from=button
-# https://www.facebook.com/recover/code/?__user=1063604170&rm=send_email&hash=AUYs2yUTKLxkGQrhyRA
-
-
-#from selenium.webdriver.chrome import options
-#from selenium.webdriver.common.keys import Keys
-#from selenium.webdriver import ActionChains
-#from selenium.webdriver.chrome.options import Options
-
-# driver.execute_script("window.open('');")
-# driver.switch_to.window(driver.window_handles[1])
-# driver.get(base)
-# "96.2.228.18:8080"
-# 162.248.164.72:8080
-# 23.107.176.45:32180
-
-#base ="https://www.facebook.com/recover/code/?__user=1063604170&rm=send_email&hash=AUYs2yUTKLxkGQrhyRA"
-#val = "0123456789"
-#PROXY = "91.149.203.12:3128"
-# 91.195.130.237:8080
-# 50.233.228.147:8080
-# get hash by phone
-# //*[@id="u_0_f_Rs"]
-# //*[@id="u_0_f_lE"]
-# u_0_g_bn
-# u_0_j_hx
-# //*[@id="u_0_j_hx"]
-# _42ft _4jy0 _9o-t _4jy3 _4jy1 selected _51sy
-# _42ft _4jy0 _9o-t _4jy3 _4jy1 selected _51sy
-
 # identify_email
 def facebook_search(driver, email: str, phone: str):
     delay = 10
