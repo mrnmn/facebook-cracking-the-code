@@ -139,7 +139,7 @@ def login_to_facebook(driver, email: str, phone: str):
         return str(result)
     return None
 
-# get the crypted user id
+# get the cuid
 def get_hash(driver, email: str, phone: str, username: str):
     time.sleep(5)
     driver.execute_script("window.open('');")
