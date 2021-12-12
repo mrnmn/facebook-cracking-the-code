@@ -2,7 +2,7 @@
 
 os linux
 
-usage:
+usage: you may need to download webdrivers for firefox, chrome and put it in the drivers folder
 
 1- go to attack folder
 
